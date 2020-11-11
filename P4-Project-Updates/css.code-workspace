@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\Starting website\\css"
+		},
+		{
+			"path": "..\\Starting website\\fonts"
+		},
+		{
+			"path": "..\\Starting website\\img"
+		},
+		{
+			"path": "..\\Starting website\\includes"
+		},
+		{
+			"path": "..\\Starting website\\js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
