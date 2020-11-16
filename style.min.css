@@ -235,8 +235,8 @@ button {
     margin-top: 22px;
     color: #fff !important;
     text-transform: uppercase;
-    padding: 12px 28px;
-    font-size: 1em;
+    padding: 12px 28px 12px 28px;
+    font-size: 1.0em;
     font-weight: 700;
   }
   .social {
@@ -347,9 +347,15 @@ button {
 }
 
 .text-center {
-  color: black;
+  text-decoration: black;
 }
 
 .sr-only {
+  color: white;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: "Open Sans";
   color: white;
 }
